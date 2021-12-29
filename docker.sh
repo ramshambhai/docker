@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t newimg /root/
+docker build -t newimg .
 
